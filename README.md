@@ -4,7 +4,7 @@ Based and inspired on [Using Webpack and React with Jekyll](https://medium.com/@
 
 Demo project contains boilerplate code/files for Jekyll + React + Webpack.
 
-By the way, this repository aims at the same goal but target **specifically** uses [jekyll-assets](https://github.com/jekyll/jekyll-assets) version `0.2.1` as it didn't remove out ERB feature (newer versions cut this feature out).
+By the way, this repository aims at the same goal but target **specifically** to use [jekyll-assets](https://github.com/jekyll/jekyll-assets) version `0.2.1` as it didn't remove out ERB feature (newer versions cut this feature out), and improved with bunch of commands to help in development.
 
 # Concept
 
