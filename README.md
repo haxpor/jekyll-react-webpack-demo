@@ -1,7 +1,10 @@
 # jekyll-react-webpack-demo
 
+Based and inspired on [Using Webpack and React with Jekyll](https://medium.com/@allizadrozny/using-webpack-and-react-with-jekyll-cfe137f8a2cc#.8argb573b) by Ali Zadrozny.
+
 Demo project contains boilerplate code/files for Jekyll + React + Webpack.
-It **specifically** uses [jekyll-assets](https://github.com/jekyll/jekyll-assets) version `0.2.1` as it didn't remove out ERB feature (newer versions cut this feature out).
+
+By the way, this repository aims at the same goal but target **specifically** uses [jekyll-assets](https://github.com/jekyll/jekyll-assets) version `0.2.1` as it didn't remove out ERB feature (newer versions cut this feature out).
 
 # Concept
 
